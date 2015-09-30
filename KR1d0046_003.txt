@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 天子肆獻祼饋食禮
-#+DATE: 2015-09-23 09:37:53
-#+PROPERTY: JUAN 3
+#+DATE: 2015-08-24 22:09:35.748259
+#+PROPERTY: ID KR1d0046
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷下
 <pb:KR1d0046_WYG_003-1a>¶
 欽定四庫全書¶
 　天子肆獻祼饋食禮卷下¶
@@ -686,4 +688,3 @@
 　¶
 　¶
 　天子肆獻祼饋食禮巻下¶
-
